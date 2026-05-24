@@ -1,23 +1,34 @@
-Fly Buy E-Commerce Website 🛒
+# Fly Buy E-Commerce Website 🛒
 
 Fly Buy is a responsive E-Commerce website built using HTML, CSS, JavaScript, and Bootstrap. The project is designed with a modern and user-friendly interface to showcase products, offers, services, blogs, and contact details effectively.
 
-🚀 Features
-Responsive Navigation Bar
-Attractive Product Showcase
-Services Section
-Offers & Discounts Section
-Explore Products Section
-Trending Blogs Section
-Contact Us Section
-Footer Section
-Fully Responsive Design
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-Bootstrap 5
-📂 Project Structure
+---
+
+## 🚀 Features
+
+- Responsive Navigation Bar
+- Attractive Product Showcase
+- Services Section
+- Offers & Discounts Section
+- Explore Products Section
+- Trending Blogs Section
+- Contact Us Section
+- Footer Section
+- Fully Responsive Design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+
+---
+
+## 📂 Project Structure
+
+```bash
 ├── Navbar.html
 ├── Navbar.css
 ├── Services Section.html
@@ -35,6 +46,8 @@ Bootstrap 5
 ├── Footer Section.html
 ├── Footer Section.css
 └── README.md
+
+
 📸 Sections Included
 Navbar
 Services
