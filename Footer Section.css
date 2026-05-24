@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-website-footer-section {
+    background-color: #19232d;
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+.footer-section-image {
+    height: 50px;
+    width: 110px;
+
+}
+
+.icon {
+    font-size: 30px;
+    color: #5a7184;
+    border-radius: 40px;
+
+}
+
+.footer-section-icon-container {
+    background-color: #202b36;
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    margin: 5px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    text-align: center;
+
+}
+
+.vr-footer-section-text {
+    color: #5a7184;
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.vr-footer-section-heading {
+    color: #5a7184;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.caption {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.contact-us-heading {
+    font-size: 28px;
+    font-weight: 600;
+
+}
+
+.icon {
+
+    font-size: 20px;
+    margin: 6px;
+
+}
+
+.heading {
+    color: #5a7184;
+
+}
+
+.vr-footer-section-list {
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: left;
+}
+
+.vr-fotter-section-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+
+}
+
+.vr-footer-section-copyright {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.vr-footer-section {
+    color: #5a7184;
+    font-size: 18px;
+}
